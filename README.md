@@ -109,7 +109,7 @@ regression estimates and SHAP rankings used in Table 9.
 
 ## Key Reproducibility Settings
 
-- Machine-learning models use a stratified 70/30 training-test split with
+- Machine-learning models use a stratified 3/7 training-test split with
   `random_state=42`.
 - The default classification threshold is 0.5.
 - The machine-learning comparison uses class weighting for imbalanced outcomes.
