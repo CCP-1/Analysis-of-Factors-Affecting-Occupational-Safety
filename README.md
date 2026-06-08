@@ -25,9 +25,9 @@ scenario-activity co-occurrence analysis.
 |---|---|
 | `CSDataset source dataset.xlsx` | Source accident records extracted from the Construction Safety Dataset (CSDataset) before study-specific cleaning and variable reconstruction. |
 | `Final modeling dataset.xlsx` | Final study dataset containing structured accident attributes and text-derived scenario-exposure and work-activity variables. |
-| `dual_pathway_machine_learning_data.xlsx` | Analysis-ready dataset used by the machine-learning, SHAP, and scenario-activity co-occurrence scripts. The worksheet is named `Modeling_Data`. |
-| `severe_injury_firth_regression_data.xlsx` | Non-fatal accident dataset used for severe-injury-pathway Firth logistic regression. The worksheet is named `Severe_Injury_Data`. |
-| `regression_shap_comparison_input.xlsx` | Consolidated regression and SHAP inputs used for the variable-level comparison reported in Table 9. |
+| `dual_pathway_machine_learning_data.xlsx` | Analysis-ready dataset used by the machine-learning, SHAP, and scenario-activity co-occurrence scripts. |
+| `severe_injury_firth_regression_data.xlsx` | Non-fatal accident dataset used for severe-injury-pathway Firth logistic regression. |
+| `regression_shap_comparison_input.xlsx` | Consolidated regression and SHAP inputs used for the variable-level comparison reported in Table . |
 
 ### Coding instructions
 
